@@ -1,0 +1,16 @@
+[package]
+name = "ampere-diskimage"
+version = "0.1.0-rc0"
+authors = [ "Hyun Ho Bae" ]
+edition = "2021"
+description = "An Experimental DiskImage Creator Written in Rust"
+documentation = "https://docs.rs/ampere-diskimage"
+readme = "./README.md"
+repository = "https://github.com/TheRustUser/ampere-diskimage"
+license-file = "./LICENSE.md"
+keywords = [ "osdev" ]
+categories = [ "Operating System" ]
+
+[dependencies]
+fatfs = "0.3.6"
+gpt = "3.0.0"
