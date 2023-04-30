@@ -1,9 +1,9 @@
 [package]
 name = "ampere-diskimage"
-version = "0.1.0-rc0"
+version = "0.1.0-rc1"
 authors = [ "Hyun Ho Bae" ]
 edition = "2021"
-description = "An Experimental DiskImage Creator Written in Rust"
+description = "Ampere OS DiskImage Creator Written in Rust"
 documentation = "https://docs.rs/ampere-diskimage"
 readme = "./README.md"
 repository = "https://github.com/TheRustUser/ampere-diskimage"
