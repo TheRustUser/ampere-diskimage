@@ -2,4 +2,4 @@
 AmpereOS Disk Image Creator
 
 # How to Use
-./ampere-diskimage filename.efi
+./ampere-diskimage ampere-kernel.efi
