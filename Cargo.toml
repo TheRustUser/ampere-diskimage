@@ -12,5 +12,6 @@ keywords = [ "osdev" ]
 categories = [ "Operating System" ]
 
 [dependencies]
+anyhow = "1.0.71"
 fatfs = "0.3.6"
 gpt = "3.0.0"
